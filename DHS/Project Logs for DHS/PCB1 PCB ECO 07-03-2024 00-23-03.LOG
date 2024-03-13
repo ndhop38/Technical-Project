@@ -1,0 +1,30 @@
+Added Component: Designator=D1(D2A)
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=D2(D2A)
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=D5(D2A)
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=D6(D2A)
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=D7(D2A)
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=D8(D2A)
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=G Pin=D1-1
+Added Pin To Net: NetName=G2 Pin=D1-2
+Added Pin To Net: NetName=G Pin=D2-1
+Added Pin To Net: NetName=G7 Pin=D2-2
+Added Pin To Net: NetName=GIO Pin=D5-1
+Added Pin To Net: NetName=P2 Pin=D5-2
+Added Pin To Net: NetName=GIO Pin=D6-1
+Added Pin To Net: NetName=P3 Pin=D6-2
+Added Pin To Net: NetName=PHUT Pin=D7-1
+Added Pin To Net: NetName=S2 Pin=D7-2
+Added Pin To Net: NetName=PHUT Pin=D8-1
+Added Pin To Net: NetName=S3 Pin=D8-2
+Added Member To Class: ClassName=DHS Member=Component D1 1N4007
+Added Member To Class: ClassName=DHS Member=Component D2 1N4007
+Added Member To Class: ClassName=DHS Member=Component D5 1N4007
+Added Member To Class: ClassName=DHS Member=Component D6 1N4007
+Added Member To Class: ClassName=DHS Member=Component D7 1N4007
+Added Member To Class: ClassName=DHS Member=Component D8 1N4007

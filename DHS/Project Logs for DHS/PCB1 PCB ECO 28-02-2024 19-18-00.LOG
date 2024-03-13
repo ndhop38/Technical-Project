@@ -1,0 +1,19 @@
+Add Component: Footprint Not Found CRYSTAL SMD 32,768 kHz
+Add Component: Footprint Not Found DIP14/W0.3
+Added Component: Designator=JDC1(DC0)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin CT1-1
+Add Pin To Net: Unknown Pin: Pin CT1-2
+Add Pin To Net: Unknown Pin: Pin IC13-1
+Add Pin To Net: Unknown Pin: Pin IC13-2
+Add Pin To Net: Unknown Pin: Pin IC13-3
+Add Pin To Net: Unknown Pin: Pin IC13-4
+Add Pin To Net: Unknown Pin: Pin IC13-5
+Add Pin To Net: Unknown Pin: Pin IC13-6
+Add Pin To Net: Unknown Pin: Pin IC13-7
+Added Pin To Net: NetName=+5 Pin=JDC1-1
+Added Pin To Net: NetName=GND Pin=JDC1-2
+Added Pin To Net: NetName=GND Pin=JDC1-3
+Add Class Member: Failed to add class member : Component CT1 32768Hz
+Add Class Member: Failed to add class member : Component IC13 CD4013
+Added Member To Class: ClassName=DHS Member=Component JDC1 Jac DC

@@ -1,0 +1,79 @@
+Add Component: Footprint Not Found CRYSTAL SMD 32,768 kHz
+Add Component: Footprint Not Found LED7SEG
+Add Component: Footprint Not Found LED7SEG
+Add Component: Footprint Not Found LED7SEG
+Add Component: Footprint Not Found LED7SEG
+Add Component: Footprint Not Found LED7SEG
+Add Component: Footprint Not Found LED7SEG
+Add Component: Footprint Not Found DIP14/W0.3
+Add Pin To Net: Unknown Pin: Pin CT1-1
+Add Pin To Net: Unknown Pin: Pin CT1-2
+Add Pin To Net: Unknown Pin: Pin DS1-1
+Add Pin To Net: Unknown Pin: Pin DS1-2
+Add Pin To Net: Unknown Pin: Pin DS1-3
+Add Pin To Net: Unknown Pin: Pin DS1-4
+Add Pin To Net: Unknown Pin: Pin DS1-6
+Add Pin To Net: Unknown Pin: Pin DS1-7
+Add Pin To Net: Unknown Pin: Pin DS1-8
+Add Pin To Net: Unknown Pin: Pin DS1-9
+Add Pin To Net: Unknown Pin: Pin DS1-10
+Add Pin To Net: Unknown Pin: Pin DS2-1
+Add Pin To Net: Unknown Pin: Pin DS2-2
+Add Pin To Net: Unknown Pin: Pin DS2-3
+Add Pin To Net: Unknown Pin: Pin DS2-4
+Add Pin To Net: Unknown Pin: Pin DS2-6
+Add Pin To Net: Unknown Pin: Pin DS2-7
+Add Pin To Net: Unknown Pin: Pin DS2-8
+Add Pin To Net: Unknown Pin: Pin DS2-9
+Add Pin To Net: Unknown Pin: Pin DS2-10
+Add Pin To Net: Unknown Pin: Pin DS3-1
+Add Pin To Net: Unknown Pin: Pin DS3-2
+Add Pin To Net: Unknown Pin: Pin DS3-3
+Add Pin To Net: Unknown Pin: Pin DS3-4
+Add Pin To Net: Unknown Pin: Pin DS3-6
+Add Pin To Net: Unknown Pin: Pin DS3-7
+Add Pin To Net: Unknown Pin: Pin DS3-8
+Add Pin To Net: Unknown Pin: Pin DS3-9
+Add Pin To Net: Unknown Pin: Pin DS3-10
+Add Pin To Net: Unknown Pin: Pin DS4-1
+Add Pin To Net: Unknown Pin: Pin DS4-2
+Add Pin To Net: Unknown Pin: Pin DS4-3
+Add Pin To Net: Unknown Pin: Pin DS4-4
+Add Pin To Net: Unknown Pin: Pin DS4-6
+Add Pin To Net: Unknown Pin: Pin DS4-7
+Add Pin To Net: Unknown Pin: Pin DS4-8
+Add Pin To Net: Unknown Pin: Pin DS4-9
+Add Pin To Net: Unknown Pin: Pin DS4-10
+Add Pin To Net: Unknown Pin: Pin DS5-1
+Add Pin To Net: Unknown Pin: Pin DS5-2
+Add Pin To Net: Unknown Pin: Pin DS5-3
+Add Pin To Net: Unknown Pin: Pin DS5-4
+Add Pin To Net: Unknown Pin: Pin DS5-6
+Add Pin To Net: Unknown Pin: Pin DS5-7
+Add Pin To Net: Unknown Pin: Pin DS5-8
+Add Pin To Net: Unknown Pin: Pin DS5-9
+Add Pin To Net: Unknown Pin: Pin DS5-10
+Add Pin To Net: Unknown Pin: Pin DS6-1
+Add Pin To Net: Unknown Pin: Pin DS6-2
+Add Pin To Net: Unknown Pin: Pin DS6-3
+Add Pin To Net: Unknown Pin: Pin DS6-4
+Add Pin To Net: Unknown Pin: Pin DS6-6
+Add Pin To Net: Unknown Pin: Pin DS6-7
+Add Pin To Net: Unknown Pin: Pin DS6-8
+Add Pin To Net: Unknown Pin: Pin DS6-9
+Add Pin To Net: Unknown Pin: Pin DS6-10
+Add Pin To Net: Unknown Pin: Pin IC13-1
+Add Pin To Net: Unknown Pin: Pin IC13-2
+Add Pin To Net: Unknown Pin: Pin IC13-3
+Add Pin To Net: Unknown Pin: Pin IC13-4
+Add Pin To Net: Unknown Pin: Pin IC13-5
+Add Pin To Net: Unknown Pin: Pin IC13-6
+Add Pin To Net: Unknown Pin: Pin IC13-7
+Add Class Member: Failed to add class member : Component CT1 32768Hz
+Add Class Member: Failed to add class member : Component DS1 7SEG-A
+Add Class Member: Failed to add class member : Component DS2 7SEG-A
+Add Class Member: Failed to add class member : Component DS3 7SEG-A
+Add Class Member: Failed to add class member : Component DS4 7SEG-A
+Add Class Member: Failed to add class member : Component DS5 7SEG-A
+Add Class Member: Failed to add class member : Component DS6 7SEG-A
+Add Class Member: Failed to add class member : Component IC13 CD4013

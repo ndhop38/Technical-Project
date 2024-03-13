@@ -1,0 +1,4 @@
+Remove Pin=IC13A-1 From Net=XUNG
+Remove Pin=IC13A-2 From Net=5
+Remove Pin=IC13A-3 From Net=Q14
+Remove Pin=IC13A-5 From Net=5

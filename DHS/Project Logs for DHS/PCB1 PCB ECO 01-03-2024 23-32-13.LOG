@@ -1,0 +1,20 @@
+Change Component Comment : Designator=X1 Old Comment=12Mhz New Comment=32856Mhz
+Added Member To Class: ClassName=DHS Member=Component C1 104
+Added Member To Class: ClassName=DHS Member=Component C2 104
+Added Member To Class: ClassName=DHS Member=Component C3 10pF
+Added Member To Class: ClassName=DHS Member=Component C4 10pF
+Added Member To Class: ClassName=DHS Member=Component D1 1N4007
+Added Member To Class: ClassName=DHS Member=Component D2 1N4007
+Added Member To Class: ClassName=DHS Member=Component JDC1 Jac DC
+Added Member To Class: ClassName=DHS Member=Component R43 10K
+Added Member To Class: ClassName=DHS Member=Component R44 10K
+Added Member To Class: ClassName=DHS Member=Component R45 47M
+Added Member To Class: ClassName=DHS Member=Component R46 10K
+Added Member To Class: ClassName=DHS Member=Component R47 10K
+Added Member To Class: ClassName=DHS Member=Component R48 2k2
+Added Member To Class: ClassName=DHS Member=Component SW1 SW
+Added Member To Class: ClassName=DHS Member=Component SW2 SW
+Added Member To Class: ClassName=DHS Member=Component U1 4060
+Added Member To Class: ClassName=DHS Member=Component U3 7414
+Added Member To Class: ClassName=DHS Member=Component U4 7414
+Added Member To Class: ClassName=DHS Member=Component X1 32856Mhz
