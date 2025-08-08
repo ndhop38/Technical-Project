@@ -21,5 +21,5 @@ This project was developed as part of a **Digital Electronics** course. It focus
 ## 🧰 Tools & Software
 
 - **Altium Designer**: For schematic and PCB design
-- Proteus** (optional): For logic simulation
+- Proteus: For logic simulation
 
